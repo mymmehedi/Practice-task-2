@@ -1,0 +1,11 @@
+#topic3, .topic1{
+    color: rgb(88, 203, 231);
+    border: 5px solid rgb(70, 31, 102);
+    background-color: antiquewhite;
+    box-shadow: 4px 6px gray;
+}
+Header{
+    text-align: center;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
